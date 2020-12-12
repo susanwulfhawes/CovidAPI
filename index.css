@@ -1,0 +1,30 @@
+.tableHead{
+    position: sticky;
+    top: 60px;
+    background-color: #ff6600;
+    color: #fff;
+}
+
+.h1{
+    position: sticky;
+    top: 0px;
+    background-color: #ff6600;
+    color: #fff;
+    height: 60px;
+}
+
+tbody{
+    width: 100%;
+}
+
+.rowHighlight{
+    background-color: #ddd;
+}
+
+th{
+    width: 12.5%;
+}
+
+td{
+    width: 12.5%;
+}
